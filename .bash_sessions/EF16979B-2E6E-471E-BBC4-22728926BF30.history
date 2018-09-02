@@ -1,0 +1,28 @@
+sudo vi /etc/fstab
+ssh dhruvpandya@dhruvs-air
+ssh JigarJarsania@afpdhruvs-air
+csrutil disable
+jhkhk
+csrutil disable
+/Users/JigarJarsania/Downloads/rar/rar ; exit;
+/Users/JigarJarsania/Downloads/rar/rar ; exit;
+/Users/JigarJarsania/Downloads/rar/rar ; exit;
+/Users/JigarJarsania/Downloads/rar/rar ; exit;
+softwareupdate --list
+softwareupdate --install xcode
+softwareupdate --install xcodehg
+softwareupdate --install Xcode
+softwareupdate --install <Xcode>
+ssh root@semanticexcel.com
+sudo vi /etc/fstab
+swift -version
+sudo gem install -n /usr/local/bin cocoapods
+pod setup
+cd Desktop
+cd Lib&framework
+ls
+cd LibFramework
+cd AlmofireDEMO
+pod init
+open -a Xcode Podfile
+pod install

@@ -1,0 +1,49 @@
+ls
+ls library
+cd..
+cd ..
+ls
+cd jigarjarsania
+ls
+cd public
+ls
+cd ..
+cd ..
+cd .
+ls
+cd ...
+ls
+/Users/jigarjarsania/Desktop/Furniture\ Selected cd
+cd
+ls
+cd /
+ls
+cd var
+ls
+cd folders
+ls
+cd sm
+ls
+help
+delete sm
+ls
+cd ..
+ls
+rm sm
+rm -R sm
+ls
+sudo rm -R sm
+ls
+sudo rm -R zz
+ls
+cd sm
+ls
+cd ..
+ls
+sudo rm -R sm
+ls
+ls 
+cd ..
+ls
+cd folders
+ls
